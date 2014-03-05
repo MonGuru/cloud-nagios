@@ -1,0 +1,10 @@
+Twisted==13.2.0
+argparse==1.2.1
+cffi==0.8.1
+cryptography==0.2.2
+cyclone==1.1
+pyOpenSSL==0.14
+pycparser==2.10
+six==1.5.2
+wsgiref==0.1.2
+zope.interface==4.1.0
